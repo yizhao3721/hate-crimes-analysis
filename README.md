@@ -1,12 +1,21 @@
 # Hate Crimes Analysis
 
+### Authors
+Jenny Gu and Yijiang Zhao
+
+### Date
+May 14, 2019
+
+### Purpose
+
 Math23C Final Project
 
-Authors: Jenny Gu and Yijiang Zhao
-Date: May 14, 2019
+We analyzed a data set which detailed all instances of hate crime reported to the **UCR** (Uniform Crime Reporting) and the **NIBRS** (National Incident-Based Reporting System) from 2000 until 2017. These crimes ranged anywhere from intimidation to violent crimes, and were based on various biases, such as race, gender, sexuality, religion, etc.
+
+
 
 # Prevalence of Hate Crimes in Modern Society
-We analyzed a data set which detailed all instances of hate crime reported to the **UCR** (Uniform Crime Reporting) and the **NIBRS** (National Incident-Based Reporting System) from 2000 until 2017. These crimes ranged anywhere from intimidation to violent crimes, and were based on various biases, such as race, gender, sexuality, religion, etc.
+
 
 ## Contingency Tables of Race of Perpetrator vs. Race of Victim
 One important issue and concern was that surrounding race-based hate crime.
