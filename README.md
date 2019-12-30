@@ -23,4 +23,5 @@ https://www.census.gov/data/tables/2017/demo/popest/total-cities-and-towns.html
 
 https://www.govinfo.gov/content/pkg/FR-2010-06-28/pdf/2010-15605.pdf
 
-`Analysis performed by Jenny Gu and Yijiang Zhao`
+## Authors
+Analysis performed by Jenny Gu and Yijiang Zhao
