@@ -6,7 +6,7 @@ We analyzed a data set which detailed all instances of hate crime reported to th
 
 ### Findings
 
-Download [Handout.pdf](https://github.com/yizhao3721/hate-crimes-analysis/raw/master/Handout.pdf) for a short summary of key findings and [ProjectAnalysis.html](https://github.com/yizhao3721/hate-crimes-analysis/raw/master/ProjectAnalysis.html) for a comprehensive analysis of all findings as well as our various statistical methods and tests.
+Download [Handout.pdf](https://github.com/yizhao3721/hate-crimes-analysis/raw/master/Handout.pdf) for a short summary of key findings and [ProjectAnalysis.html](https://htmlpreview.github.io/?https://github.com/yizhao3721/hate-crimes-analysis/blob/master/ProjectAnalysis.html) for a comprehensive analysis of all findings as well as our various statistical methods and tests.
 
 ### Ethical Issues
 
